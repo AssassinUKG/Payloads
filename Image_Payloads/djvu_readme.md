@@ -29,5 +29,4 @@ SVG polygot file: https://insert-script.blogspot.com/2020/11/imagemagick-shell-i
   <image xlink:href="msl:poc.svg" height="100" width="100"/>
   </svg>
 </image>
-
 ```
